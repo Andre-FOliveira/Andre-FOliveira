@@ -1,4 +1,18 @@
 ## Bem-vindo(a) ao perfil do André Faustino 😁
+
+Sou programador Front End, atualmente estou estudando e criando projetos com: 
+  
+  HTML e CSS. Iniciando os modulos de JavaScript e React.
+  
+  </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+  
+ <br>
+ <br>
  
  <div>
    <a href="https://github.com/Andre-FOliveira">
@@ -6,17 +20,10 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-FOliveira&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 
- 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
+  
  <br>
  
-  ### Me segue a gente nas redes abaixo!
+  ### Me segue nas redes abaixo:
  
 <div> 
  
